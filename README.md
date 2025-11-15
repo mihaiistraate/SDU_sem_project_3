@@ -12,4 +12,6 @@ Regarding components, we had a fixed budget from the university of 1k DKK to ord
 For designing the PCB, KiCad was used and we generated a schematic and a PCB layout:
 
 <img width="1510" height="1038" alt="Controller PCB schematic" src="https://github.com/user-attachments/assets/41d207e8-634f-4fcf-bebf-afd2c88e6d04" />
+<img width="1813" height="1251" alt="Car PCB schematic" src="https://github.com/user-attachments/assets/044075c7-f805-41a2-ae41-0c214c969617" />
 
+<img width="1354" height="934" alt="Car PCB layout" src="https://github.com/user-attachments/assets/7dae5ef4-8da2-46be-b78e-fbe198fd2de3" />
