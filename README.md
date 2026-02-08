@@ -8,7 +8,7 @@ The Gantt chart was used to showcase the project timeline and to make sure we as
 
 <img width="1536" height="323" alt="Gantt chart" src="https://github.com/user-attachments/assets/4ec3dbd6-a855-4c08-bdfc-00a0337099f0" />
 
-Regarding components, we had a fixed budget from the university of 1k DKK to order components necessary for the PCB and enclosure. As it can be seen in the following picture, we used a total of 970 DKK out of the total budget of 1000 DKK.
+There was a fixed budget from the university of 1k DKK to order components necessary for the PCB and enclosure. As it can be seen in the following picture, we used a total of 970 DKK.
 
 <img width="1556" height="283" alt="components list" src="https://github.com/user-attachments/assets/7f958040-57f5-4dfc-afa4-7b28fd875b54" />
 
