@@ -1,6 +1,6 @@
 # Remote Controlled Car
 
-Remotely controlled vehicles are an electronic toy commonly found in stores. This project sought to replicate this commodity with an additional requirement of slowing down and potentially braking upon encountering an obstacle such as a wall. This feature was to be achieved with a proximity sensor which would send this information to the Arduino microcontroller, where the speed of the vehicle would be tempered from the input speed of the user in order to lessen the impact for the toy. This would be achieved in order to showcase the motor and its response to external stimuli to fulfil the requirements of the project specifications.
+Remotely controlled vehicles are an electronic toy commonly found in stores. This project sought to replicate this commodity with an addition of slowing down and potentially braking upon encountering an obstacle such as a wall. This feature was to be achieved with a proximity sensor which would send this information to the Arduino microcontroller, where the speed of the vehicle would be tempered from the input speed of the user in order to lessen the impact for the toy. This would be achieved in order to showcase the motor and its response to external stimuli to fulfil the requirements of the project specifications.
 
 To achieve this product, it required simulations, programming of the microcontroller, research into the motor driver, PCB design for the vehicle and the controller, as well as 3D design of the casings of both the components.
 
